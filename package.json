@@ -2,7 +2,7 @@
   "name": "sistema-diciembre",  
   "private": true,
   "version": "0.0.0",
-  "proxy": "https://joelsc.github.io",
+  "proxy": "https://joel1597.github.io/sisuni-webpage",
   "type": "module",
   "scripts": {
     "dev": "vite",
